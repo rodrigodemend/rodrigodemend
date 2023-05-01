@@ -1,6 +1,11 @@
 ## Welcome do my github profile
 
-I am a Data Analyst and throughout my career I have been helping companies to become more data driven, providing actionable insights for decision making.
+🖥️ I am a Data Analyst and throughout my career I have been helping companies to become more data driven, providing actionable insights for decision making.
+
+📈 I am an analytical person with a problem-solving mindset that pay a lot of attention to details to understand if the data I am seeing makes sense. 
+
+💡 I am a quick leaner and I like to work within a team to help each other and reach great results for the company. 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
